@@ -1,9 +1,10 @@
 write an article
 Eat breakfast.
 study books.
-Attend classes on time.
+try to Attend classes on time.
 Visit aunt.
 Apply for remote jobs.
 Practice code.
+fix the project.
 
 
